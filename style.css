@@ -5,7 +5,7 @@ body{
 
 .container{
     display: flex;
-    width: 190vh;
+    width: 200vh;
     height: 85vh;
     flex-direction: row;
 }
